@@ -1,4 +1,4 @@
-SmsSender [![Build Status](https://secure.travis-ci.org/Carpe-Hora/SmsSender.png)](http://travis-ci.org/Carpe-Hora/SmsSender)
+#SmsSender [![Build Status](https://secure.travis-ci.org/Carpe-Hora/SmsSender.png)](http://travis-ci.org/Carpe-Hora/SmsSender)
 =========
 
 **SmsSender** is a library which helps you send SMS through your web applications.
