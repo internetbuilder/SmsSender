@@ -1,5 +1,5 @@
 {
-    "name": "Carpe-Hora/SmsSender",
+    "name": "carpe-hora/smssender",
     "type": "library",
     "description": "The almost missing SMS sending PHP library.",
     "keywords": ["sms", "abstraction"],
@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-        "php": "~5.3|~7.0"
+        "php": "~5.3|~8.2"
     },
     "require-dev": {
         "kriswallsmith/buzz": "*",
